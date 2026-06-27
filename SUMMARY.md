@@ -110,6 +110,7 @@
   * [Defer](golang/goroutine/defer.md)
   * [Channel](golang/goroutine/channel.md)
   * [Buffered Channel](golang/goroutine/buffered-channel.md)
+  * [Kapan harus pakai Buffered Channel dibandingkan Channel](golang/goroutine/kapan-harus-pakai-buffered-channel-dibandingkan-channel.md)
   * [Select Channel](golang/goroutine/select-channel.md)
   * [Deadlock - All goroutines are asleep](golang/goroutine/deadlock-all-goroutines-are-asleep.md)
   * [Race Condition](golang/goroutine/race-condition.md)

@@ -1,3 +1,3 @@
 # Data Type
 
-<img src="../.gitbook/assets/unknown.png" alt="" height="261" width="441">
+<img src="../.gitbook/assets/unknown (1).png" alt="" height="261" width="441">
