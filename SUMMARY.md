@@ -2,11 +2,6 @@
 
 * [🚀 Dokumentasi Bootcamp (PT Phincon)](README.md)
 
-## Java
-
-* [Data Type](java/data-type.md)
-* [HashMap, LinkedHashMap](java/hashmap-linkedhashmap.md)
-
 ## Golang
 
 * [Command di Golang](golang/command-di-golang.md)
@@ -126,12 +121,12 @@
   * [Exercise 2 : Worker (Go Routine + Channel + Context)](golang/goroutine/exercise-2-worker-go-routine-+-channel-+-context.md)
   * [Exercise 3 : Random Worker (Go Routine + Channel + Context)](golang/goroutine/exercise-3-random-worker-go-routine-+-channel-+-context.md)
   * [Exercise : Implementasi Goroutine dan Channel pada File CSV](golang/goroutine/exercise-implementasi-goroutine-dan-channel-pada-file-csv.md)
-* [Go Context](golang/go-context/README.md)
-  * [Pengenalan Context](golang/go-context/pengenalan-context.md)
-  * [Context Background & TODO](golang/go-context/context-background-and-todo.md)
-  * [Context With Value](golang/go-context/context-with-value.md)
-  * [Context WithDeadline dan Context WithTimeout](golang/go-context/context-withdeadline-dan-context-withtimeout.md)
-  * [Context WithCancel dan Context Done](golang/go-context/context-withcancel-dan-context-done.md)
+* [Context](golang/context/README.md)
+  * [Pengenalan Context](golang/context/pengenalan-context.md)
+  * [Context Background & TODO](golang/context/context-background-and-todo.md)
+  * [Context With Value](golang/context/context-with-value.md)
+  * [Context WithDeadline dan Context WithTimeout](golang/context/context-withdeadline-dan-context-withtimeout.md)
+  * [Context WithCancel dan Context Done](golang/context/context-withcancel-dan-context-done.md)
 * [Pengenalan HTTP](golang/pengenalan-http.md)
 * [Go Native HTTP](golang/go-native-http/README.md)
   * [HTTP Server](golang/go-native-http/http-server.md)
@@ -193,3 +188,8 @@
 * [Git Command](golang/git-command.md)
 * [Git Clone dengan SSH](golang/git-clone-dengan-ssh.md)
 * [Anotasi dan Package di Java Spring Boot](golang/anotasi-dan-package-di-java-spring-boot.md)
+
+## Java
+
+* [Data Type](java/data-type.md)
+* [HashMap, LinkedHashMap](java/hashmap-linkedhashmap.md)
