@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Dokumentasi Bootcamp (PT Phincon)](README.md)
+* [🏔️ Basic Golang & Java](README.md)
 
 ## Golang
 
@@ -189,7 +189,12 @@
 * [Git Clone dengan SSH](golang/git-clone-dengan-ssh.md)
 * [Anotasi dan Package di Java Spring Boot](golang/anotasi-dan-package-di-java-spring-boot.md)
 
-## Java
+## Java & Spring Boot
 
-* [Data Type](java/data-type.md)
-* [HashMap, LinkedHashMap](java/hashmap-linkedhashmap.md)
+* [Data Type](java-and-spring-boot/data-type.md)
+* [HashMap, LinkedHashMap](java-and-spring-boot/hashmap-linkedhashmap.md)
+* [Stream](java-and-spring-boot/stream.md)
+
+## JavaScript & TypeScript
+
+* [Page 1](javascript-and-typescript/page-1.md)
